@@ -1,0 +1,5 @@
+gen-php
+SERVER
+*.pyc
+*.pyo
+*.swp
